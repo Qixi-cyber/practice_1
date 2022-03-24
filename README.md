@@ -1,4 +1,6 @@
 ## practice_1
-#Learning to use GITHUB
+# Learning to use GITHUB
 
-Just Checking the Radme file is working **=)**
+Just Checking the Radme file is working ** =) **
+
+Checking the markdownn style.
